@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+        
+    <Employee id="1">
+                
+        <name>asas</name>
+                
+        <gender>male</gender>
+                
+        <age>44</age>
+                
+        <role>role2</role>
+            
+    </Employee>
+        
+    <Employee id="2">
+                
+        <name>adam</name>
+                
+        <gender>male</gender>
+                
+        <age>34</age>
+                
+        <role>manager</role>
+            
+    </Employee>
+        
+    <Employee id="3">
+                
+        <name>uou</name>
+                
+        <gender>female</gender>
+                
+        <age>30</age>
+                
+        <role>role</role>
+            
+    </Employee>
+    
+    <Employee id="4">
+        <name>Boris</name>
+        <gender>male</gender>
+        <age>50</age>
+        <role>ceo</role>
+    </Employee>
+</Employees>
